@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub ETR System\\SignalR Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:hubs\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\wwwroot\\js\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:wwwroot\\js\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\mybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:mybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|c:\\github etr system\\signalr sample\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD622053-0930-464F-95FF-6C599DD8908B}|SignalR Sample.csproj|solutionrelative:controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T09:23:52.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T09:23:49.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyBackgroundService.cs",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\MyBackgroundService.cs",
+              "RelativeDocumentMoniker": "MyBackgroundService.cs",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\MyBackgroundService.cs",
+              "RelativeToolTip": "MyBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:20:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAzszMzMwHwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:20:24.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:19:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:19:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:18:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:18:03.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:17:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "update.js",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\wwwroot\\js\\update.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\update.js",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\wwwroot\\js\\update.js",
+              "RelativeToolTip": "wwwroot\\js\\update.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-06T09:17:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Controllers\\UpdateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UpdateController.cs",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Controllers\\UpdateController.cs",
+              "RelativeToolTip": "Controllers\\UpdateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:16:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateHub.cs",
+              "DocumentMoniker": "C:\\GitHub ETR System\\SignalR Sample\\Hubs\\UpdateHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\UpdateHub.cs",
+              "ToolTip": "C:\\GitHub ETR System\\SignalR Sample\\Hubs\\UpdateHub.cs",
+              "RelativeToolTip": "Hubs\\UpdateHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:15:24.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

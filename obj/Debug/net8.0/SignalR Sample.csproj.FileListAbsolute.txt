@@ -1,0 +1,35 @@
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\appsettings.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\libman.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.staticwebassets.runtime.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.exe
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.deps.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.runtimeconfig.json
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.dll
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\SignalR Sample.pdb
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\GitHub ETR System\SignalR Sample\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.csproj.AssemblyReference.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.AssemblyInfoInputs.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.AssemblyInfo.cs
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.csproj.CoreCompileInputs.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.RazorAssemblyInfo.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.RazorAssemblyInfo.cs
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets\msbuild.SignalR Sample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalR Sample.props
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalR Sample.props
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalR Sample.props
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\scopedcss\bundle\SignalR Sample.styles.css
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\scopedcss\projectbundle\SignalR Sample.bundle.scp.css
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR .80AD21A2.Up2Date
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.dll
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\refint\SignalR Sample.dll
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.pdb
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\SignalR Sample.genruntimeconfig.cache
+C:\GitHub ETR System\SignalR Sample\obj\Debug\net8.0\ref\SignalR Sample.dll

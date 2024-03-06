@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SignalR_Sample.Controllers.UpdateController",
+    "Method": "TriggerUpdate",
+    "RelativePath": "api/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

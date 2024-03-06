@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/updateHub")
+        .configureLogging(signalR.LogLevel.Information)
+        .build();
+
+    connection.on("ReceiveUpdate", (updateMessage) => {
+        // Handle the received update
+    });
+
+    connection.start()
+        .then(() => console.log('SignalR Connected'))
+        .catch(err => console.error('SignalR Connection Error: ', err));
+
+    // // Create a connection to the hub
+    // const connection = new signalR.HubConnectionBuilder()
+    //     .withUrl("/updatehub")  // Replace with the actual URL of your hub
+    //     .build();
+
+    // // Start the connection
+    // connection.start().then(() => {
+    //     // Connection is established, obtain the connection ID
+    //     const connectionId = connection.connectionId;
+    //     console.log("Connection ID: " + connectionId);
+    // }).catch(err => console.error(err));
+</script>
